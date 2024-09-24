@@ -2,7 +2,7 @@
 combine Windows Terminal and MSYS2  
 
 ### Prerequirements  
-1. <a href="https://github.com/microsoft/terminal/releases" target="blank">Windows Terminal</a>  
+1. <a href="https://github.com/microsoft/terminal/releases" target="_blank">Windows Terminal</a>  
 2. [MSYS2](https://www.msys2.org/docs/installer/)  
 
 ### File Tree
