@@ -1,11 +1,14 @@
 # terminal
 combine Windows Terminal and MSYS2  
 
-Prerequirements  
-1. [MSYS2]()  
-2. [Windows Terminal]()  
+### Prerequirements  
+1. [Windows Terminal](https://github.com/microsoft/terminal/releases)  
+2. [MSYS2](https://www.msys2.org/docs/installer/)  
 
-move MSYS2 directory into Windows Terminal folder  
+### File Tree
+Terminal
+└─MSYS2
+
 this is my setting.json
 ```json
 {
