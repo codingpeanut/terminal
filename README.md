@@ -9,7 +9,7 @@ combine Windows Terminal and MSYS2
 Terminal  
 └─MSYS2  
 
-this is my setting.json
+my setting.json
 ```json
 {
     "$help": "https://aka.ms/terminal-documentation",
