@@ -8,7 +8,7 @@ combine Windows Terminal and MSYS2
 ### File Tree
 ```bash
 Terminal  
-└─MSYS2
+└─ MSYS2
 ```
 
 `setting.json`
