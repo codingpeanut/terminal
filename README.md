@@ -6,8 +6,10 @@ combine Windows Terminal and MSYS2
 2. [MSYS2](https://www.msys2.org/docs/installer/)  
 
 ### File Tree
+```bash
 Terminal  
-└─MSYS2  
+└─MSYS2
+```
 
 `setting.json`
 ```json
